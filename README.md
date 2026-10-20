@@ -10,7 +10,7 @@
 
 ## Enunciado
 
-Un buzón guarda un único mensaje. Dos hilos escritores mandan 3 mensajes cada uno y dos hilos lectores leen 3 cada uno. Un escritor solo puede escribir si el buzón está vacío y un lector solo puede leer si tiene un mensaje; si no, esperan. Muestra por pantalla quién escribe, quién lee y quién espera.
+Un buzón guarda un único mensaje. Dos hilos escritores mandan 3 mensajes cada uno y dos hilos lectores leen 3 mensajes cada uno. Un escritor solo puede escribir si el buzón está vacío y un lector solo puede leer si tiene un mensaje, si no, esperan. Muestra por pantalla quién escribe, quién lee y quién espera.
 
 ## Clase `Buzon` - Métodos escribir y leer
 
